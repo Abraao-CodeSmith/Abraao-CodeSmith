@@ -27,16 +27,27 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 **Design & Gestão**
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20CorelDraw-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/Gestão%20de%20TI-00599C?style=for-the-badge&logo=micro-strategy&logoColor=white" />
 </p>
 
 ---
 
 ### 📈 Principais Projetos
-*Aqui, você pode listar seus repositórios de Node.js conforme for criando:*
-- 📦 [Nome do Projeto 1] - Descrição rápida do que faz (Ex: API de estoque).
-- ⚙️ [Nome do Projeto 2] - Descrição rápida (Ex: Bot para automação).
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🤖 Bot WhatsApp + Trello API</h4>
+      <p>Automação inteligente para geração de pedidos. O bot recebe dados via WhatsApp e cria automaticamente cartões organizados no Trello, otimizando o fluxo de trabalho e gestão de demandas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trello%20API-0079BF?style=flat-square&logo=trello&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abraao-CodeSmith/bot_trello_whatsapp">Ver Repositório →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
