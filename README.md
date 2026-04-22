@@ -27,7 +27,7 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 **Design & Gestão**
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20CorelDraw-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/Corel%20Draw-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
   <img src="https://img.shields.io/badge/Gestão%20de%20TI-00599C?style=for-the-badge&logo=micro-strategy&logoColor=white" />
 </p>
 
