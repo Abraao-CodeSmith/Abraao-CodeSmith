@@ -1,4 +1,6 @@
-# Olá, eu sou o Abraão Araújo! 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/main/assets/nome.svg" height="80" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" alt="Estatísticas do GitHub" width="400" />
