@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/main/assets/nome.svg" height="80" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/main/assets/nome.svg" height="90" />
 </div>
 
 <div align="center">
