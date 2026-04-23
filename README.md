@@ -57,6 +57,16 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 <a href="abraao.codesmith@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 </p>
 
+### 🟡 Minhas contribuições (Pac-Man)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-Codesmith/Abraao-Codesmith/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abraao-Codesmith/Abraao-Codesmith/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abraao-Codesmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 <p align="center">
   "A lógica leva você de A a B. A imaginação e o código levam você a qualquer lugar."
