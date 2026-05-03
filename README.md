@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right" alt="Estatísticas do GitHub" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao-CodeSmith&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400" />
 </div>
 
 ### 🚀 Sobre Mim
@@ -36,6 +37,7 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 ---
 
 ### 📈 Principais Projetos
+
 <table>
   <tr>
     <td width="50%">
@@ -47,6 +49,17 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
         <img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
       </p>
       <a href="https://github.com/Abraao-CodeSmith/bot_trello_whatsapp">Ver Repositório →</a>
+    </td>
+    <td width="50%">
+      <h4>🖨️ PDF CMYK Converter</h4>
+      <p>Converte PDFs RGB (Canva) para CMYK compatível com CorelDraw. Resolve o erro de "arquivo danificado" ao abrir PDFs do Canva em softwares gráficos de impressão.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ghostscript-9B59B6?style=flat-square&logo=ghost&logoColor=white" />
+        <img src="https://img.shields.io/badge/PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+        <img src="https://img.shields.io/badge/CorelDraw-00B050?style=flat-square&logo=coreldraw&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abraao-CodeSmith/pdf-cmyk-converter">Ver Repositório →</a>
     </td>
   </tr>
 </table>
