@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/main/assets/nome.svg" height="90" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao-CodeSmith&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400" />
-</div>
+</div>-->
 
 ### 🚀 Sobre Mim
 Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida de mais de 10 anos como **Designer Gráfico**, hoje foco minha criatividade e capacidade analítica no desenvolvimento de soluções robustas no **Backend**.
@@ -72,7 +72,7 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 <a href="abraao.codesmith@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
 </p>
 
-### 🟡 Minhas contribuições (Pac-Man)
+### 🟡 Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph-dark.svg">
