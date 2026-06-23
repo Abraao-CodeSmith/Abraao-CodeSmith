@@ -92,11 +92,15 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 
 ### 🟡 Minhas contribuições
 
-<picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/github-metrics.svg" alt="Pacman Contributions">
+</p>
+
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">
-</picture>
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">  
+</picture>-->
 
 ---
 <p align="center">
