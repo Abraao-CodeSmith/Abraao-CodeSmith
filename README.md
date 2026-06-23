@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/main/assets/nome.svg" height="90" />
 </div>
 
-<!--<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao-CodeSmith&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400" />
-</div>-->
+</div>
 
 ### 🚀 Sobre Mim
 Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida de mais de 10 anos como **Designer Gráfico**, hoje foco minha criatividade e capacidade analítica no desenvolvimento de soluções robustas no **Backend**.
@@ -30,7 +30,7 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 **Design & Gestão**
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Corel%20Draw-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
+  <img src="https://img.shields.io/badge/Corel%20Draw-FF9A00?style=for-the-badge&logo=CorelDraw&logoColor=white" />
   <img src="https://img.shields.io/badge/Gestão%20de%20TI-00599C?style=for-the-badge&logo=micro-strategy&logoColor=white" />
 </p>
 
@@ -39,8 +39,9 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 ### 📈 Principais Projetos
 
 <table>
+  <!-- Primeira Linha de Projetos (2 colunas perfeitas de 50%) -->
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🤖 Bot WhatsApp + Trello API</h4>
       <p>Automação inteligente para geração de pedidos. O bot recebe dados via WhatsApp e cria automaticamente cartões organizados no Trello, otimizando o fluxo de trabalho e gestão de demandas.</p>
       <p>
@@ -50,7 +51,7 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
       </p>
       <a href="https://github.com/Abraao-CodeSmith/bot_trello_whatsapp">Ver Repositório →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🖨️ PDF CMYK Converter</h4>
       <p>Converte PDFs RGB (Canva) para CMYK compatível com CorelDraw. Resolve o erro de "arquivo danificado" ao abrir PDFs do Canva em softwares gráficos de impressão.</p>
       <p>
@@ -61,7 +62,10 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
       </p>
       <a href="https://github.com/Abraao-CodeSmith/pdf-cmyk-converter">Ver Repositório →</a>
     </td>
-    <td width="50%">
+  </tr>
+  <!-- Segunda Linha de Projetos (Próximos projetos entram aqui) -->
+  <tr>
+    <td width="50%" valign="top">
       <h4>🚀 megasync-db</h4>
       <p>Sistema automatizado de backup para SQL Server com envio seguro para a nuvem via Mega.nz.</p>
       <p>
@@ -72,6 +76,9 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
       </p>
       <a href="https://github.com/Abraao-CodeSmith/megasync-db">Ver Repositório →</a>
     </td>
+    <td width="50%" valign="top">
+      <!-- Espaço reservado para o seu 4º projeto no futuro -->
+    </td>
   </tr>
 </table>
 
@@ -79,8 +86,8 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 
 ### 📫 Vamos nos conectar?
 <p align="left">
-<a href="https://www.linkedin.com/in/abraaofaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="abraao.codesmith@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/abraaofaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:abraao.codesmith@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
 
 ### 🟡 Minhas contribuições
@@ -91,9 +98,7 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 ---
 <p align="center">
-  "A lógica leva você de A a B. A imaginação e o código levam você a qualquer lugar."
+  <em>"A lógica leva você de A a B. A imaginação e o código levam você a qualquer lugar."</em>
 </p>
