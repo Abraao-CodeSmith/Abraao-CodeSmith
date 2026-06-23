@@ -61,6 +61,17 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
       </p>
       <a href="https://github.com/Abraao-CodeSmith/pdf-cmyk-converter">Ver Repositório →</a>
     </td>
+    <td width="50%">
+      <h4>🚀 megasync-db</h4>
+      <p>Sistema automatizado de backup para SQL Server com envio seguro para a nuvem via Mega.nz.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mega.nz-000000?style=flat-square&logo=mega&logoColor=white" />
+        <img src="https://img.shields.io/badge/License_ISC-007EC6?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abraao-CodeSmith/megasync-db">Ver Repositório →</a>
+    </td>
   </tr>
 </table>
 
