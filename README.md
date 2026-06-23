@@ -93,10 +93,14 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
 ### 🟡 Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abraao-CodeSmith&theme=zenburn">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abraao-CodeSmith&theme=default">
+  <img alt="GitHub Contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abraao-CodeSmith&theme=default">
 </picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abraao-CodeSmith/Abraao-CodeSmith/output/github-contribution-grid-snake.svg" alt="Se o snake ainda aparecer, vamos ajustar a action abaixo" style="display:none;" />
+</p>
 
 ---
 <p align="center">
