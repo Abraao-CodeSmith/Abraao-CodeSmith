@@ -10,15 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pacman Graph
-        uses: jonaswinkler/github-readme-pacman@main
+      - uses: Platane/snk@v3
         with:
           github_user_name: Abraao-CodeSmith
-          # Gera os arquivos na pasta dist
-          output_dir: dist
+          outputs: |
+            dist/pacman-contribution-graph.svg?color_snake=#FFFF00&color_dots=#161b22,#40a7e6,#ff0000,#f7df1e,#6da55f
+            dist/pacman-contribution-graph-dark.svg?color_snake=#FFFF00&color_dots=#0d1117,#40a7e6,#ff0000,#f7df1e,#6da55f
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
