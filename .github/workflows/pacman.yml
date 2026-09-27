@@ -1,24 +1,28 @@
-name: Generate Pacman
+name: generate arcade contribution graphs
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 20
     steps:
-      - uses: Platane/snk@v3
+      - name: generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Abraao-CodeSmith
-          outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=#FFFF00&color_dots=#161b22,#40a7e6,#ff0000,#f7df1e,#6da55f
-            dist/pacman-contribution-graph-dark.svg?color_snake=#FFFF00&color_dots=#0d1117,#40a7e6,#ff0000,#f7df1e,#6da55f
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

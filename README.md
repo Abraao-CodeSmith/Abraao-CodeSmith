@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraao-CodeSmith&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Abraao-CodeSmith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abraao-CodeSmith&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" width="400" />
 </div>
 
 ### 🚀 Sobre Mim
