@@ -42,14 +42,16 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
   <!-- Primeira Linha de Projetos (2 colunas perfeitas de 50%) -->
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Bot WhatsApp + Trello API</h4>
-      <p>Automação inteligente para geração de pedidos. O bot recebe dados via WhatsApp e cria automaticamente cartões organizados no Trello, otimizando o fluxo de trabalho e gestão de demandas.</p>
+      <h4>🤖 botTrelloZap</h4>
+      <p>Automação inteligente em Node.js que integra WhatsApp (via Evolution API), Trello, Gmail e Supabase para gerenciamento automático de pedidos, triagem de filas, anexação de mídias e alertas de e-mail em tempo real.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Trello%20API-0079BF?style=flat-square&logo=trello&logoColor=white" />
-        <img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Evolution_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
       </p>
-      <a href="https://github.com/Abraao-CodeSmith/bot_trello_whatsapp">Ver Repositório →</a>
+      <a href="https://github.com/Abraao-CodeSmith/botTrelloZap">Ver Repositório →</a>
     </td>
     <td width="50%" valign="top">
       <h4>🖨️ PDF CMYK Converter</h4>
@@ -77,7 +79,15 @@ Sou um entusiasta da tecnologia em transição de carreira. Com uma base sólida
       <a href="https://github.com/Abraao-CodeSmith/megasync-db">Ver Repositório →</a>
     </td>
     <td width="50%" valign="top">
-      <!-- Espaço reservado para o seu 4º projeto no futuro -->
+      <h4>📡 Store Catalog Scraper</h4>
+      <p>Web scraper em Node.js para extração automatizada de catálogos de e-commerce, sanitização de HTML, resolução de mídias com fallback em AWS S3 e armazenamento estruturado em SQLite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Scraping-FF6600?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/Abraao-CodeSmith/store-catalog-scraper">Ver Repositório →</a>
     </td>
   </tr>
 </table>
